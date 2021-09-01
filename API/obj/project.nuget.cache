@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tuDyzI5zTjdvkytLz3L+gtWJCNbGnd7BVhIlwLZQHOyAa89MUb2b+rcQhswUkjQTBCiqbgFIcITW6Ya8PqrSXg==",
+  "dgSpecHash": "BZ5rE9BjCchx38jm9HcRWF+BHIgeuQ6A/1nX02NVh3iVfc+UMyGs3KrXtV2sF1L64C7Pj87kTba4n0HzTPAuUA==",
   "success": true,
   "projectFilePath": "/Users/lamnguyen/Desktop/AsapCoreAngular/DotnetCoreANgula/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/lamnguyen/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/lamnguyen/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/lamnguyen/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/lamnguyen/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.9/microsoft.aspnetcore.authentication.jwtbearer.5.0.9.nupkg.sha512",
     "/Users/lamnguyen/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/5.0.1/microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",
@@ -47,6 +49,7 @@
     "/Users/lamnguyen/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "/Users/lamnguyen/.nuget/packages/system.identitymodel.tokens.jwt/6.12.2/system.identitymodel.tokens.jwt.6.12.2.nupkg.sha512",
     "/Users/lamnguyen/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/lamnguyen/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
     "/Users/lamnguyen/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
